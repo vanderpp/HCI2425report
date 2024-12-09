@@ -12,113 +12,38 @@
 %\hypersetup{linkcolor=black,citecolor=black,filecolor=black,urlcolor=black} % black links, for printed output
 \usepackage{memhfixc}
 \usepackage{pdfsync}
-\usepackage{fancyhdr}
-\pagestyle{fancy}
+%\usepackage{fancyhdr}
+%\pagestyle{fancy}
 
 \title{Sample Report}
-\author{Author McWriterson}
+\author{Author McWriterson, 2nd author}
 %\date{}
 
 \begin{document}
 \maketitle
-\tableofcontents
+%\tableofcontents
 
 \section{Introduction}
+Quickly introduce the task that was handed to your group and the goal of the project. Also, clarify which design methodology you have followed.
 
-My project was about the \ldots
+\section{Problem definition}
+In a suitable division of sub-chapters, describe and motivate your methodology and present artefacts and findings that helped in further defining
+your problem. In this chapter, it is essential to clearly define:
+\subsection{primary, secondary and tertiary users}
 
-I developed a system to \ldots
+\subsection{the context of use}
 
-We did some experiments to find out \ldots
+\subsection{design goals and requirements}
 
-The main results were \ldots
-
-\pagebreak
-
-\section{Background}
-
-I did some background reading in the following areas \ldots
-
-\pagebreak
-
-\section{System Design}
-
-My system worked as follows \ldots
-
-\pagebreak
-
+Try to make it clear how the aspects (requirement, characteristic, etc.)mentioned were derived. It is further helpful to indicate which aspectsyou consider most critical and whether they are validated or assumptions.A common mistake is to add aspects that can’t help in motivating thedesign. Included aspects should help answer why something is in a design,rather than what. For example, saying that the solution requires loginfunctionality, does not clearly answer why. Instead, write down the reasonto why logging in is assumed to be required.
+\section{Development}
+Here you will present the process that led you to your final solution. Describeand motivate your methodology and present artefacts and findingsthat helped refine your solution. Don't forget to mention the tools used.
+\section{Final Solution}
+Provide images and clarify functionalities for your final solution.
 \section{Evaluation}
-
-We did some experiments \ldots
-
-\pagebreak
-
-\section{Conclusions and Future Work}
-
-From our experiments we can conclude that \ldots
-
+If you did a final evaluation by the end of the project, describe how itwas conducted and its results here. If your evaluation fits better under Chapter 3, you may include it there. You can analyse the results to derive a conclusion, but consider moving longer speculations to the discussion.
+\section{Discussion and Conclusion}
+Imagine that you are writing to a person who will keep working on theproject after you. What are things that could be interesting for them toadd as a next step and why? Conclude what is valuable knowledge forthem to base the project on and what is not, by highlighting importantresults and arguments that defend your design choice (and methodology).You should also point out relevant limitations, this shows that you havea wider understanding of the problem. Be critical towards your solutionand methodology to gain credibility. In a scientific context, praising yoursolution without significant proof will look like you are defending your ego.
 \bibliographystyle{abbrv}
 % \bibliography{references}  % need to put bibtex references in references.bib
-\end{document}% LaTeX Template for short student reports.
-% Citations should be in bibtex format and go in references.bib
-\documentclass[a4paper, 11pt]{article}
-\usepackage[top=3cm, bottom=3cm, left = 2cm, right = 2cm]{geometry} 
-\geometry{a4paper} 
-\usepackage[utf8]{inputenc}
-\usepackage{textcomp}
-\usepackage{graphicx} 
-\usepackage{amsmath,amssymb}  
-\usepackage{bm}  
-\usepackage[pdftex,bookmarks,colorlinks,breaklinks]{hyperref}  
-%\hypersetup{linkcolor=black,citecolor=black,filecolor=black,urlcolor=black} % black links, for printed output
-\usepackage{memhfixc} 
-\usepackage{pdfsync}  
-\usepackage{fancyhdr}
-\pagestyle{fancy}
-
-\title{Sample Report}
-\author{Author McWriterson,test}
-\author{Author McWriterson2}
-%\date{}
-
-\begin{document}
-	\maketitle
-	\tableofcontents
-	
-	\section{Introduction}
-	
-	My project was about \ldots
-	
-	I developed a system to \ldots
-	
-	We did some experiments to find out \ldots
-	
-	The main results were \ldots
-	
-	\pagebreak
-	
-	\section{Background}
-	
-	I did some background reading in the following areas \ldots
-	
-	\pagebreak
-	
-	\section{System Design}
-	
-	My system worked as follows \ldots
-	
-	\pagebreak
-	
-	\section{Evaluation}
-	
-	We did some experiments \ldots
-	
-	\pagebreak
-	
-	\section{Conclusions and Future Work}
-	
-	From our experiments we can conclude that \ldots
-	
-	\bibliographystyle{abbrv}
-	% \bibliography{references}  % need to put bibtex references in references.bib 
 \end{document}

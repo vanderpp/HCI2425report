@@ -111,8 +111,6 @@ INPUT C:\Program Files\MiKTeX\tex\latex\memoir\memhfixc.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\memoir\memhfixc.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\pdfsync\pdfsync.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\pdfsync\pdfsync.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT .\hci2425project.aux
@@ -179,18 +177,10 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmbsy8.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmbsy6.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT .\hci2425project.toc
-INPUT .\hci2425project.toc
-INPUT hci2425project.toc
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
-OUTPUT hci2425project.toc
 INPUT C:\Users\van der paelt.p\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsl10.tfm
 INPUT hci2425project.aux
 INPUT .\hci2425project.out
 INPUT .\hci2425project.out
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
@@ -199,5 +189,3 @@ INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsl10.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsl10.pfb
