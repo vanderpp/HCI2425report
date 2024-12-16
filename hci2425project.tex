@@ -1,4 +1,3 @@
-% LaTeX Template for short student reports.
 % Citations should be in bibtex format and go in references.bib
 \documentclass[a4paper, 11pt]{article}
 \usepackage[top=3cm, bottom=3cm, left = 2cm, right = 2cm]{geometry}
@@ -23,19 +22,30 @@
 \maketitle
 %\tableofcontents
 
+
+
 \section{Introduction}
 Quickly introduce the task that was handed to your group and the goal of the project. Also, clarify which design methodology you have followed.
 
 \section{Problem definition}
 In a suitable division of sub-chapters, describe and motivate your methodology and present artefacts and findings that helped in further defining
 your problem. In this chapter, it is essential to clearly define:
-\subsection{primary, secondary and tertiary users}
+\subsection{Primary, secondary and tertiary users}
+The \textbf{Primary users} of the application consist of broadly speaking any VUB-related person that is involved in academic activities (faculty staff and students). We exclude VUB support staff from this category. Furthermore we distinguish amongst students, researchers, professors (or any teaching staff) and event planners, as far as the event is related to the academic mission of the university. The interest of the student further divides this type of primary user: he/she can be either searching for a certain book, or he/she can be looking for a quiet spot to study\footnote{The library only offers this service in a bookable way during exam periods} or to collaborate with other students on a group assignment. The rationale behind this choice is the definition of the primary user: only the frequent hands-on users should be retained.\\
+The \textbf{Secondary Users} consist of the library personnel. Librarians and people managing the library will be confronted with the solution as well, but from a different angle. To fulfil the tasks in the context of their daily activities, it is our estimate they will use other information systems that are already in place it is not our goal to replace these systems. Since our goals are to ease resource access, which is primarily of concern to the primary users in this specific case, we feel the librarians are typically the group of admin users, hence secondary users. They will however assist the primary users when they have questions about the app. We furthermore include external people in this category. These consist of academic staff from other universities and people attending a short course. This group of users typically will be the "guest account" which have limited access and lifetime within the system. They are less frequent users and therefore, fall under the category of secondary users.\\
+The last category of \textbf{Tertiary Users} consists of VUB employees in general (all departments), including the support-of-the-support, such as maintenance personnel. 
 
 \subsection{the context of use}
 
+%maybe address ethical issues here?
+%how will risks and benefits will be distributed?
+%which impacts van we anticipate?
+
 \subsection{design goals and requirements}
 
-Try to make it clear how the aspects (requirement, characteristic, etc.)mentioned were derived. It is further helpful to indicate which aspectsyou consider most critical and whether they are validated or assumptions.A common mistake is to add aspects that can’t help in motivating thedesign. Included aspects should help answer why something is in a design,rather than what. For example, saying that the solution requires loginfunctionality, does not clearly answer why. Instead, write down the reasonto why logging in is assumed to be required.
+We used open-ended interviews (also unstructured interviews) to get acquainted with the users and their needs.
+
+Try to make it clear how the aspects (requirement, characteristic, etc.)mentioned were derived. It is further helpful to indicate which aspectsyou consider most critical and whether they are validated or assumptions.A common mistake is to add aspects that can't help in motivating thedesign. Included aspects should help answer why something is in a design,rather than what. For example, saying that the solution requires loginfunctionality, does not clearly answer why. Instead, write down the reasonto why logging in is assumed to be required.
 \section{Development}
 Here you will present the process that led you to your final solution. Describeand motivate your methodology and present artefacts and findingsthat helped refine your solution. Don't forget to mention the tools used.
 \section{Final Solution}
