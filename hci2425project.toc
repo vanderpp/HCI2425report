@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Problem definition}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Empathise: visit to the library}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Primary, secondary and tertiary users}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Design goals and requirements}{4}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Development}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Low-fidelity prototype}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Final Solution (mid-fidelity prototype)}{9}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Evaluation (UEQ+)}{10}{section.4}%
+\contentsline {section}{\numberline {5}Discussion and Conclusion}{13}{section.5}%
+\contentsline {section}{\numberline {A}Test Cases}{14}{appendix.A}%
+\contentsline {section}{\numberline {B}Additional Statistical Analysis}{15}{appendix.B}%

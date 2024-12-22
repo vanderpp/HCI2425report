@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.5.15)  16 DEC 2024 10:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.5.15)  19 DEC 2024 20:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -305,6 +305,18 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip53
 )
+(C:\Program Files\MiKTeX\tex/latex/graphics\rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count289
+\rotFPtop=\skip54
+\rotFPbot=\skip55
+\rot@float@box=\box53
+\rot@mess@toks=\toks26
+)
 (C:\Program Files\MiKTeX\tex/latex/memoir\memhfixc.sty
 Package: memhfixc 2023/09/10 v1.22 hyperref package fixes for memoir class
 
@@ -312,32 +324,60 @@ No memoir class: memhfixc does nothing
 ) (C:\Program Files\MiKTeX\tex/latex/pdfsync\pdfsync.sty
 Package: pdfsync 2008/01/26 v1.1
 )
+(C:\Program Files\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+
+(C:\Program Files\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Program Files\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen164
+\captionmargin=\dimen165
+\caption@leftmargin=\dimen166
+\caption@rightmargin=\dimen167
+\caption@width=\dimen168
+\caption@indent=\dimen169
+\caption@parindent=\dimen170
+\caption@hangindent=\dimen171
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count290
+\c@continuedfloat=\count291
+Package caption Info: hyperref package is loaded.
+Package caption Info: rotating package is loaded.
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count292
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count293
+)
 (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count289
-\l__pdf_internal_box=\box53
+\l__color_backend_stack_int=\count294
+\l__pdf_internal_box=\box54
 )
 (hci2425project.aux)
 \openout1 = `hci2425project.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -375,17 +415,17 @@ LaTeX Font Info:    ... okay on input line 21.
 
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count290
-\scratchdimen=\dimen164
-\scratchbox=\box54
-\nofMPsegments=\count291
-\nofMParguments=\count292
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count293
-\MPscratchDim=\dimen165
-\MPnumerator=\count294
-\makeMPintoPDFobject=\count295
-\everyMPtoPDFconversion=\toks27
+\scratchcounter=\count295
+\scratchdimen=\dimen172
+\scratchbox=\box55
+\nofMPsegments=\count296
+\nofMParguments=\count297
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count298
+\MPscratchDim=\dimen173
+\MPnumerator=\count299
+\makeMPintoPDFobject=\count300
+\everyMPtoPDFconversion=\toks28
 ) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -403,7 +443,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: pdftex.def on input line 149.
 
 (C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx))
-Package hyperref Info: Link coloring ON on input line 21.
+Package hyperref Info: Link coloring ON on input line 23.
  (hci2425project.out) (hci2425project.out)
 \@outlinefile=\write3
 \openout3 = `hci2425project.out'.
@@ -412,56 +452,326 @@ Configuring pdfsync
 \PDFSYNC@ut=\write4
 \openout4 = `hci2425project.pdfsync'.
 
-\PDFSYNCf@li@=\count296
-\PDFSYNC@rder=\count297
+\PDFSYNCf@li@=\count301
+\PDFSYNC@rder=\count302
 **** pdfsync.sty: Synchronizing at \everypar
-\PDFSYNCeveryp@r=\toks28
+\PDFSYNCeveryp@r=\toks29
 **** pdfsync.sty: Synchronizing at \everymath
-\PDFSYNCeverym@th=\toks29
+\PDFSYNCeverym@th=\toks30
 **** pdfsync.sty: Synchronizing at \everyhbox
-\PDFSYNCeveryhb@x=\toks30
+\PDFSYNCeveryhb@x=\toks31
 **** pdfsync.sty: Synchronizing at \everyvbox
-\PDFSYNCeveryvb@x=\toks31
+\PDFSYNCeveryvb@x=\toks32
 **** pdfsync.sty: started
-LaTeX Font Info:    Trying to load font information for U+msa on input line 24.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 25.
 
  (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 24.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 25.
 
 
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+) (hci2425project.toc)
+\tf@toc=\write5
+\openout5 = `hci2425project.toc'.
 
-{C:/Users/van der paelt.p/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2
-] (hci2425project.aux)
+
+(hci2425project.lof
+
+LaTeX Warning: Citation `doubleD' on page 1 undefined on input line 1.
+
+)
+\tf@lof=\write6
+\openout6 = `hci2425project.lof'.
+
+<figures/DoubleDiamond.png, id=78, 521.69907pt x 299.61937pt>
+File: figures/DoubleDiamond.png Graphic file (type png)
+<use figures/DoubleDiamond.png>
+Package pdftex.def Info: figures/DoubleDiamond.png  used on input line 34.
+(pdftex.def)             Requested size: 290.22107pt x 166.67932pt.
+
+
+LaTeX Warning: Citation `doubleD' on page 1 undefined on input line 35.
+
+
+LaTeX Warning: Citation `doubleD' on page 1 undefined on input line 35.
+
+[1
+
+{C:/Users/van der paelt.p/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+
+LaTeX Warning: Citation `sharp2023interaction' on page 2 undefined on input lin
+e 40.
+
+<figures/affluences.jpg, id=109, 171.64125pt x 228.855pt>
+File: figures/affluences.jpg Graphic file (type jpg)
+<use figures/affluences.jpg>
+Package pdftex.def Info: figures/affluences.jpg  used on input line 53.
+(pdftex.def)             Requested size: 120.92421pt x 161.23103pt.
+<figures/directions.jpg, id=110, 172.39406pt x 228.855pt>
+File: figures/directions.jpg Graphic file (type jpg)
+<use figures/directions.jpg>
+Package pdftex.def Info: figures/directions.jpg  used on input line 60.
+(pdftex.def)             Requested size: 120.92421pt x 160.52914pt.
+
+Overfull \hbox (4.86667pt too wide) in paragraph at lines 51--64
+ [][][][]  [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+[2 <./figures/DoubleDiamond.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+ []
+
+[3 <./figures/affluences.jpg> <./figures/directions.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+
+ []
+
+<figures/EmpathyMapCanvasStudents.png, id=129, 886.074pt x 510.489pt>
+File: figures/EmpathyMapCanvasStudents.png Graphic file (type png)
+<use figures/EmpathyMapCanvasStudents.png>
+Package pdftex.def Info: figures/EmpathyMapCanvasStudents.png  used on input li
+ne 93.
+(pdftex.def)             Requested size: 386.95897pt x 222.93333pt.
+[4 <./figures/EmpathyMapCanvasStudents.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+
+ []
+
+<figures/ImpactMapStudySpot.png, id=136, 785.553pt x 413.472pt>
+File: figures/ImpactMapStudySpot.png Graphic file (type png)
+<use figures/ImpactMapStudySpot.png>
+Package pdftex.def Info: figures/ImpactMapStudySpot.png  used on input line 108
+.
+(pdftex.def)             Requested size: 338.58632pt x 178.2122pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+
+ []
+
+<figures/ImpactMapBook.png, id=138, 785.553pt x 291.489pt>
+File: figures/ImpactMapBook.png Graphic file (type png)
+<use figures/ImpactMapBook.png>
+Package pdftex.def Info: figures/ImpactMapBook.png  used on input line 124.
+(pdftex.def)             Requested size: 338.58632pt x 125.63582pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--129
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5{C:/Program Files/MiKTeX/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./figure
+s/ImpactMapStudySpot.png>]
+
+LaTeX Warning: Citation `figma' on page 6 undefined on input line 133.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+
+ []
+
+<figures/lowFid2.png, id=147, 1491.32156pt x 1410.0178pt>
+File: figures/lowFid2.png Graphic file (type png)
+<use figures/lowFid2.png>
+Package pdftex.def Info: figures/lowFid2.png  used on input line 144.
+(pdftex.def)             Requested size: 386.95897pt x 365.84296pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
+
+ []
+
+[6 <./figures/ImpactMapBook.png>]
+<figures/LowFidUserFlow.png, id=159, 812.709pt x 269.151pt>
+File: figures/LowFidUserFlow.png Graphic file (type png)
+<use figures/LowFidUserFlow.png>
+Package pdftex.def Info: figures/LowFidUserFlow.png  used on input line 159.
+(pdftex.def)             Requested size: 483.69687pt x 160.18996pt.
+<figures/WizOz.jpg, id=160, 516.402pt x 387.411pt>
+File: figures/WizOz.jpg Graphic file (type jpg)
+<use figures/WizOz.jpg>
+Package pdftex.def Info: figures/WizOz.jpg  used on input line 165.
+(pdftex.def)             Requested size: 290.22107pt x 217.7349pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--170
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7 <./figures/lowFid2.png>] [8 <./figures/LowFidUserFlow.png> <./figures/WizOz.
+jpg>]
+
+LaTeX Warning: Citation `figma' on page 9 undefined on input line 175.
+
+<figures/FigmaOverview.png, id=177, 282.05376pt x 241.40187pt>
+File: figures/FigmaOverview.png Graphic file (type png)
+<use figures/FigmaOverview.png>
+Package pdftex.def Info: figures/FigmaOverview.png  used on input line 178.
+(pdftex.def)             Requested size: 483.69687pt x 414.01335pt.
+[9 <./figures/FigmaOverview.png>]
+
+LaTeX Warning: Citation `ueq' on page 10 undefined on input line 184.
+
+<figures/FigmaReserveSpot.png, id=184, 753.141pt x 498.225pt>
+File: figures/FigmaReserveSpot.png Graphic file (type png)
+<use figures/FigmaReserveSpot.png>
+Package pdftex.def Info: figures/FigmaReserveSpot.png  used on input line 187.
+(pdftex.def)             Requested size: 483.69687pt x 319.98045pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--192
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
+
+ []
+
+<figures/ImportanceRatings.png, id=185, 259.734pt x 279.225pt>
+File: figures/ImportanceRatings.png Graphic file (type png)
+<use figures/ImportanceRatings.png>
+Package pdftex.def Info: figures/ImportanceRatings.png  used on input line 199.
+
+(pdftex.def)             Requested size: 169.29315pt x 182.00536pt.
+<figures/ScaleMeans.png, id=186, 256.011pt x 280.977pt>
+File: figures/ScaleMeans.png Graphic file (type png)
+<use figures/ScaleMeans.png>
+Package pdftex.def Info: figures/ScaleMeans.png  used on input line 206.
+(pdftex.def)             Requested size: 169.29315pt x 185.80981pt.
+
+Overfull \hbox (4.86667pt too wide) in paragraph at lines 197--210
+ [][][][]  [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10 <./figures/FigmaReserveSpot.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 217--219
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
+
+ []
+
+[11 <./figures/ImportanceRatings.png> <./figures/ScaleMeans.png>] [12]
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--232
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
+
+ []
+
+[13] [14]
+<figures/confint.png, id=222, 332.74312pt x 171.64125pt>
+File: figures/confint.png Graphic file (type png)
+<use figures/confint.png>
+Package pdftex.def Info: figures/confint.png  used on input line 285.
+(pdftex.def)             Requested size: 338.58632pt x 174.66579pt.
+<figures/boxplot.png, id=223, 504.357pt x 318.864pt>
+File: figures/boxplot.png Graphic file (type png)
+<use figures/boxplot.png>
+Package pdftex.def Info: figures/boxplot.png  used on input line 291.
+(pdftex.def)             Requested size: 386.95897pt x 244.64539pt.
+ [15 <./figures/confint.png> <./figures/boxplot.png>]
+<figures/UxScale.png, id=230, 377.91188pt x 436.63126pt>
+File: figures/UxScale.png Graphic file (type png)
+<use figures/UxScale.png>
+Package pdftex.def Info: figures/UxScale.png  used on input line 298.
+(pdftex.def)             Requested size: 338.58632pt x 391.19894pt.
+ [16 <./figures/UxScale.png>]
+<figures/importance.png, id=236, 341.02406pt x 435.12563pt>
+File: figures/importance.png Graphic file (type png)
+<use figures/importance.png>
+Package pdftex.def Info: figures/importance.png  used on input line 305.
+(pdftex.def)             Requested size: 338.58632pt x 432.04384pt.
+ [17 <./figures/importance.png>] (hci2425project.bbl)
+(hci2425project.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `hci2425project.out' has not changed.
-(rerunfilecheck)             Checksum: 24CFC31FCCBB3C55D2E923CA2F4C4305;1341.
+(rerunfilecheck)             Checksum: C74C4E6E6CBF374563ACD53E9412DD13;2079.
  ) 
 Here is how much of TeX's memory you used:
- 10400 strings out of 474385
- 157457 string characters out of 5750132
- 1938496 words of memory out of 5000000
- 32598 multiletter control sequences out of 15000+600000
- 572883 words of font info for 90 fonts, out of 8000000 for 9000
+ 12278 strings out of 474385
+ 194877 string characters out of 5750132
+ 1948496 words of memory out of 5000000
+ 34402 multiletter control sequences out of 15000+600000
+ 576287 words of font info for 103 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,16n,79p,1066b,444s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,22n,79p,1380b,671s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Progra
 m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.
-pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Progra
-m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on hci2425project.pdf (2 pages, 116547 bytes).
+eX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Pro
+gram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmr9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Pro
+gram Files/MiKTeX/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on hci2425project.pdf (17 pages, 7058010 bytes).
 PDF statistics:
- 97 PDF objects out of 1000 (max. 8388607)
- 13 named destinations out of 1000 (max. 500000)
- 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 316 PDF objects out of 1000 (max. 8388607)
+ 57 named destinations out of 1000 (max. 500000)
+ 182 words of extra memory for PDF output out of 10000 (max. 10000000)
 
